@@ -1,3 +1,5 @@
+// Arquivo executavel do programa, onde o usuario ira interagir com o programa e realizar as ações disponiveis.
+
 import java.util.Scanner;
 
 public class App {
