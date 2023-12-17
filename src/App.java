@@ -1,4 +1,10 @@
-// Arquivo executavel do programa, onde o usuario ira interagir com o programa e realizar as ações disponiveis.
+/*
+    filename: App.java
+
+    Notes: Main arquive.  
+
+    author: Isaac Penaforte Pereira
+ */
 
 import java.util.Scanner;
 
