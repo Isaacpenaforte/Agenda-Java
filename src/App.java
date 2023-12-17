@@ -126,7 +126,7 @@ public class App {
                         System.out.println("Programa finalizado");
                         System.exit(0);
                         escolhaModoPrimeiro++;
-                        
+
                         break;
 
                     default:
