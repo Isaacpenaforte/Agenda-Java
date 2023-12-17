@@ -11,7 +11,6 @@ public class App {
         int numero;
 
         while (true) {
-
             if (ler.hasNextInt()) {
                 numero = ler.nextInt();
                 break;
@@ -118,8 +117,10 @@ public class App {
                         break;
 
                     case 5:// Sair
+                        System.out.println("Programa finalizado");
                         System.exit(0);
                         escolhaModoPrimeiro++;
+                        
                         break;
 
                     default:
