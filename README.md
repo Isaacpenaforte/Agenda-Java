@@ -8,7 +8,7 @@ The program includes various functionalities, such as creating, deleting, search
 
 ## Usage
 
-First, it is recommended to creat a contact, hence the contact list wont be equal to 0. Then, you can chose from whatever option is presented to the user.
+First, it is recommended to creat a contact, hence the contact list wont be equal to 0. Then, you can chose from whatever option is presented to the user. Wether is delete the contact created or any of the options listed above.
 
 # Author
 

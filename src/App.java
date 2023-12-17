@@ -25,7 +25,7 @@ public class App {
                 ler.nextLine();
             }
         }
-
+        
         return numero;
     }
 
